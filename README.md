@@ -1,6 +1,4 @@
-# Chnnel-Map-Demo
-Create channel maps using APLpy.
-# Top-down schematic of the Miky Way
+# Chnnel Map Demo
 
 This repository contains an ipythonnotebook for plotting channel maps.
 

@@ -1,4 +1,4 @@
-# Chnnel Map Demo
+# Channel Map Demo
 
 This repository contains an ipythonnotebook for plotting channel maps.
 
